@@ -1,4 +1,5 @@
-[![MasterHead](https://www.google.com/search?q=android+developer+banner+gif&rlz=1C1CHBF_enIN946IN946&sxsrf=AJOqlzVn_GP8BeV4XrXVL0A-q5sl40T2yg:1674423331606&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjG7Yj_kNz8AhXA3jgGHTDnAYIQ_AUoAXoECAEQAw&biw=1396&bih=649&dpr=1.38#imgrc=TH0qAZuI5rkaTM)](https://www.linkedin.com/in/hitansh-agrawal-8560a3165/)
+![2000_600px](https://user-images.githubusercontent.com/101708836/214143645-4f5b14b4-2259-4eb4-8e9e-13cf2d7035be.gif)
+
 <h1 align="center">Hi 👋, I'm Hitansh Agrawal</h1>
 <h3 align="center">"Exploring the intersection of mobile development and Artificial Intelligence"</h3>
 
@@ -15,6 +16,8 @@
 - 💬 Ask me about **Android development,DSA, and Deep learning**
 
 - 📫 How to reach me **hitanshagrawal@gmail.com**
+
+- 📫 Connect with me on LinkedIn : [Connect](https://www.linkedin.com/in/hitansh-agrawal-8560a3165/)
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1XC7TuPTWJyIYA0UcfEUeWiSAX840gsrL/edit?usp=sharing&ouid=105267023197526746442&rtpof=true&sd=true](https://docs.google.com/document/d/1XC7TuPTWJyIYA0UcfEUeWiSAX840gsrL/edit?usp=sharing&ouid=105267023197526746442&rtpof=true&sd=true)
 
